@@ -3,7 +3,7 @@ Duke University Java Capstone Project - Movie Recommender
 by Jason Espinoza
 
 ## About
-This capstone project is a recommender systems. This program data for is for movies, including ratings, but the principles involved can easily be adapted to books, restaurants, and more. The program will answer questions about the data, including which items should be recommended to a user based on their ratings of several movies. Given input files on users ratings and movie titles, this program will:
+This capstone project is a recommender system. The program data for is for movies, including ratings, but the principles involved can easily be adapted to books, restaurants, and more. The program will answer questions about the data, including which items should be recommended to a user based on their ratings of several movies. Given input files on users ratings and movie titles, this program will:
 
 1. Read in and parse data into lists and maps;
 2. Calculate average ratings;
